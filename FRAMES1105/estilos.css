@@ -1,0 +1,10 @@
+div{
+    background-color: rgb(175, 99, 246);
+    border: radius 10px;
+    box-shadow: 5px 5px rgb(207, 206, 206);
+}
+H1{
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+}

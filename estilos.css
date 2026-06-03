@@ -1,0 +1,49 @@
+div{
+    padding: 3px;
+    background-color: rgb(175, 99, 246);
+    border: radius 10px;
+    box-shadow: 5px 5px rgb(207, 206, 206);
+    display: flex;
+    flex-direction: row;
+
+}
+H1{
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+
+}
+img{
+    width: 150px;
+}
+
+.cajatitulo{
+    text-align: center;
+    background-color: rgb(104, 104, 249);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.menu{
+    background-color: rgb(58, 97, 253);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(45, 45, 45);
+    display: block;
+    margin: 10px;
+}
+
+.menu ul{
+    list-style: none;
+}
+
+.menu li{
+    position: relative;
+}
+
+.menu ul li a:hover{
+    background-color: rgb(205, 249, 103);
+}
